@@ -1,2 +1,2 @@
-# GP-GAN
-Official implementation of GP-GAN: Towards Realistic High-Resolution Image Blending
+# GP-GAN-Project
+Project Website for GP-GAN: Towards Realistic High-Resolution Image Blending
